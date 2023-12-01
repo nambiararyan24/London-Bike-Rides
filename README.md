@@ -1,5 +1,6 @@
 Showing information in a way that's easy to grasp is important for seeing patterns. In this guide, we'll go through the steps to make an interactive Tableau dashboard to look at London bike rental information. This project has elements like total bike rides, rolling averages, a heatmap displaying temperature versus wind speed, and charts based on weather and time of day. Let's get into it!
 
+![image](https://github.com/nambiararyan24/London-Bike-Sales-Dashboard/assets/122199881/c0fc924a-cb37-4336-a37a-4d3bb9758fba)
 # Step 1 - Data Exploration and Preparation
 
 - Obtain the London bike sales dataset from Kaggle using the Kaggle API.

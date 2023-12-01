@@ -40,8 +40,6 @@ Showing information in a way that's easy to grasp is important for seeing patter
 
 - Configure tooltips to provide detailed information about weather, hours, and more when hovering over the charts.
 
-- If you wish to try out the visualization for yourself, here are the links to the resources and the dashboard. 
-
 # Step 3 - Dashboard Creation
 
 ## Assembling the Dashboard
